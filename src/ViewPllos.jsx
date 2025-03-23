@@ -81,7 +81,7 @@ console.log("State username:", username);
       ViewPolls(); // Refresh polls after deletion
     } catch (error) {
       console.error("Error deleting poll:", error);
-      alert("Error deleting poll");
+      alert(" deleting poll");
     }
   };
 
